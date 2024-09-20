@@ -4,6 +4,9 @@
         "http://mybatis.org/dtd/mybatis-3-config.dtd">
 <configuration>
     <typeAliases>
+<<<<<<< HEAD
         <typeAlias alias="BoardDto" type="com.myportfolio.web.domain.BoardDto"/>
+=======
+>>>>>>> origin/main
     </typeAliases>
 </configuration>
